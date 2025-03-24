@@ -33,20 +33,6 @@ async def is_subscribed(bot, query, channel):
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
-main_buttons = [[
-    InlineKeyboardButton('❣️ ᴅᴇᴠᴇʟᴏᴘᴇʀ ❣️', url='https://t.me/ExE_AQUIB')
-],[
-    InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/+7Skn2zSO5K9kZDc1'),
-    InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/KGN_BOT_Z')
-],[
-    InlineKeyboardButton('💝 ᴶᴼᴵᴺ ᴬᴺᴵᴹᴱ ᶜᴴᴬᴺᴺᴱᴸ ', url='https://t.me/+eKKOHxiwKv00MGM1'),
-    InlineKeyboardButton('🎬 ᴹᴼⱽᴵᴱ ˢᴱᴬᴿᶜᴴ ᴳᴿᴼᵁᴾ ', url='https://t.me/Ongoingmoviehub')
-],[
-    InlineKeyboardButton('👨‍💻 ʜᴇʟᴘ', callback_data='help'),
-    InlineKeyboardButton('💁 ᴀʙᴏᴜᴛ', callback_data='about')
-],[
-    InlineKeyboardButton('⚙ sᴇᴛᴛɪɴɢs', callback_data='settings#main')
-]]
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
@@ -67,6 +53,21 @@ async def start(client, message):
                 return
         except Exception as e:
             print(e)
+    main_buttons = [[
+    InlineKeyboardButton('❣️ ᴅᴇᴠᴇʟᴏᴘᴇʀ ❣️', url='https://t.me/ExE_AQUIB')
+],[
+    InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/+7Skn2zSO5K9kZDc1'),
+    InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/KGN_BOT_Z')
+],[
+    InlineKeyboardButton('💝 ᴶᴼᴵᴺ ᴬᴺᴵᴹᴱ ᶜᴴᴬᴺᴺᴱᴸ ', url='https://t.me/+eKKOHxiwKv00MGM1'),
+    InlineKeyboardButton('🎬 ᴹᴼⱽᴵᴱ ˢᴱᴬᴿᶜᴴ ᴳᴿᴼᵁᴾ ', url='https://t.me/Ongoingmoviehub')
+],[
+    InlineKeyboardButton('👨‍💻 ʜᴇʟᴘ', callback_data='help'),
+    InlineKeyboardButton('💁 ᴀʙᴏᴜᴛ', callback_data='about')
+],[
+    InlineKeyboardButton('⚙ sᴇᴛᴛɪɴɢs', callback_data='settings#main')
+]]
+
     user = message.from_user
     if not await db.is_user_exist(user.id):
         await db.add_user(user.id, user.first_name)
