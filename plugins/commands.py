@@ -26,7 +26,8 @@ main_buttons = [[
     InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/+7Skn2zSO5K9kZDc1'),
     InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/KGN_BOT_Z')
 ],[
-    InlineKeyboardButton('💝 VIDEO EXPLANTION ', url='https://t.me/howuseme/11')
+    InlineKeyboardButton('💝 ᴶᴼᴵᴺ ᴬᴺᴵᴹᴱ ᶜᴴᴬᴺᴺᴱᴸ ', url='https://t.me/+eKKOHxiwKv00MGM1')
+    InlineKeyboardButton('🎬 ᴹᴼⱽᴵᴱ ˢᴱᴬᴿᶜᴴ ᴳᴿᴼᵁᴾ ', url='https://t.me/Ongoingmoviehub')
 ],[
     InlineKeyboardButton('👨‍💻 ʜᴇʟᴘ', callback_data='help'),
     InlineKeyboardButton('💁 ᴀʙᴏᴜᴛ', callback_data='about')
