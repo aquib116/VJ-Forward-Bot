@@ -8,7 +8,7 @@ import asyncio
 from database import Db, db
 from config import Config, temp
 from script import Script
-from pyrogram import Client, filters
+from pyrogram import Client, filters, AUTH_CHANNEL
 from pyrogram.errors import *
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, InputMediaDocument
 import psutil
