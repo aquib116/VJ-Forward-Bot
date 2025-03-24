@@ -39,9 +39,9 @@ class  Script(object):
 ╔════❰ ғᴏʀᴡᴀʀᴅ ʙᴏᴛ ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣
 ║┣⪼📃ʙᴏᴛ : [Fᴏʀᴡᴀᴅ Bᴏᴛ](https://t.me/KGN_FORWARD_BOT)
-║┣⪼👦Cʀᴇᴀᴛᴏʀ : [Kɪɴɢ VJ 👑](https://t.me/ExE_AQUIB)
-║┣⪼🤖Uᴘᴅᴀᴛᴇ : [VJ Bᴏᴛᴢ](https://t.me/KGN_BOT_Z)
-║┣⪼📡Hᴏsᴛᴇᴅ ᴏɴ : Sᴜᴘᴇʀ Fᴀsᴛ
+║┣⪼👦Cʀᴇᴀᴛᴏʀ : [Aǫᴜɪʙ 👑](https://t.me/ExE_AQUIB)
+║┣⪼🤖Uᴘᴅᴀᴛᴇ : [Kɢɴ BᴏᴛZ](https://t.me/KGN_BOT_Z)
+║┣⪼📡Hᴏsᴛᴇᴅ ᴏɴ : Rᴇɴᴅᴇʀ
 ║┣⪼🗣️Lᴀɴɢᴜᴀɢᴇ : Pʏᴛʜᴏɴ3
 ║┣⪼📚Lɪʙʀᴀʀʏ : Pʏʀᴏɢʀᴀᴍ Gᴀᴛʜᴇʀ 2.11.0 
 ║┣⪼🗒️Vᴇʀsɪᴏɴ : 0.18.3
