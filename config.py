@@ -10,7 +10,7 @@ class Config:
     BOT_TOKEN = environ.get("BOT_TOKEN", "") 
     BOT_SESSION = environ.get("BOT_SESSION", "vjbot") 
     DATABASE_URI = environ.get("DATABASE_URI", "")
-    DATABASE_NAME = environ.get("DATABASE_NAME", "vj-forward-bot")
+    DATABASE_NAME = environ.get("DATABASE_NAME", "")
     BOT_OWNER = int(environ.get("BOT_OWNER", ""))
 
 # Don't Remove Credit Tg - @VJ_Botz
