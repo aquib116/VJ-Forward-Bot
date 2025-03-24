@@ -470,7 +470,7 @@ async def stop_forward(client, message):
     temp.CANCEL[user_id] = True
     mst = await db.get_forward_details(user_id)
     msg = await client.get_messages(user_id, mst['msg_id'])
-    link = f"tg://openmessage?user_id={6648261085}&message_id={mst['msg_id']}"
+    link = f"tg://openmessage?user_id={5851158054}&message_id={mst['msg_id']}"
     await sts.edit(f"<b>Successfully Canceled </b>", disable_web_page_preview=True)
 
 # Don't Remove Credit Tg - @VJ_Botz
