@@ -6,7 +6,7 @@ import os
 import sys
 import asyncio 
 from database import Db, db
-from config import AUTH_CHANNEL, Config, temp
+from config import Config, temp
 from script import Script
 from pyrogram import Client, filters
 from pyrogram.errors import *
