@@ -40,7 +40,7 @@ class  Script(object):
 ║╭━━━━━━━━━━━━━━━➣
 ║┣⪼📃ʙᴏᴛ : [Fᴏʀᴡᴀᴅ Bᴏᴛ](https://t.me/KGN_FORWARD_BOT)
 ║┣⪼👦Cʀᴇᴀᴛᴏʀ : [Aǫᴜɪʙ 👑](https://t.me/ExE_AQUIB)
-║┣⪼🤖Uᴘᴅᴀᴛᴇ : [Kɢɴ BᴏᴛZ](https://t.me/KGN_BOT_Z)
+║┣⪼🤖Uᴘᴅᴀᴛᴇ : [Kɢɴ BᴏᴛZ](https://t.me/KGN_BOTZ)
 ║┣⪼📡Hᴏsᴛᴇᴅ ᴏɴ : Rᴇɴᴅᴇʀ
 ║┣⪼🗣️Lᴀɴɢᴜᴀɢᴇ : Pʏᴛʜᴏɴ3
 ║┣⪼📚Lɪʙʀᴀʀʏ : Pʏʀᴏɢʀᴀᴍ Gᴀᴛʜᴇʀ 2.11.0 
